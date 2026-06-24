@@ -15,4 +15,4 @@ Computer Science graduate from Purdue University interested in software engineer
 
 ## Contact
 - Email: nitiefeng123@gmail.com
-- LinkedIn: [your LinkedIn link](https://www.linkedin.com/in/%E9%93%81%E5%B3%B0-%E5%80%AA-aba081377/)
+- LinkedIn: (https://www.linkedin.com/in/%E9%93%81%E5%B3%B0-%E5%80%AA-aba081377/)
